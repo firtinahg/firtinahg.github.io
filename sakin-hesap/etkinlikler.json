@@ -1,24 +1,41 @@
 {
   "items": [
     {
-      "id": "disari-cik",
-      "title": "Kısa bir dışarı çıkın",
-      "body": "Park, bahçe veya merdiven altı. 20 dakika yeter.",
-      "image": "https://firtinahg.github.io/sakin-hesap/images/sakin_hesap_insta_1.png",
-      "url": "",
+      "id": "park-mimoza_oyun_evi",
       "sort": 10,
       "enabled": true,
-      "sponsored": false
+      "sponsored": true,
+      "category": "oyun_parki",
+      "name": "Örnek Oyun Parkı",
+      "tagline": "Açık hava, 5–12 yaş.",
+      "description": "Mimoza Ebeveyn ve Çocuk Kafe",
+      "city": "Kocaeli",
+      "district": "Darıca",
+      "address": "Kiana Evleri, Osman Gazi, Kuştepe Cd. A blok 80/A",
+      "hours": "Pzt-Cmt. 11:00–21:00",
+      "phone": "+90 553 603 44 78",
+      "mapsUrl": "https://www.google.com/maps/place/Mimoza+%C3%87ocuk+Oyun+Alan%C4%B1+ve+Ebeveyn+Kafe/@40.7924076,29.3666572,613m/data=!3m1!1e3!4m14!1m7!3m6!1s0x14cadf384fae65e7:0xdb72ee33694a29ba!2sMimoza+%C3%87ocuk+Oyun+Alan%C4%B1+ve+Ebeveyn+Kafe!8m2!3d40.7924036!4d29.3692321!16s%2Fg%2F11ml375682!3m5!1s0x14cadf384fae65e7:0xdb72ee33694a29ba!8m2!3d40.7924036!4d29.3692321!16s%2Fg%2F11ml375682?entry=ttu&g_ep=EgoyMDI2MDkwOS4wIKXMDSoASAFQAw%3D%3D",
+      "website": "",
+      "age": "5–12",
+      "price": "-",
+      "image": "https://firtinahg.github.io/sakin-hesap/images/mimoza_anasayfa.jpg",
+      "images": [
+        "https://firtinahg.github.io/sakin-hesap/images/mimoza_ornek.jpg"
+      ]
     },
     {
-      "id": "kitap",
-      "title": "Birlikte kitap bakın",
-      "body": "Kısa bir hikâye. Ekran kapalı kalsın.",
-      "image": "",
-      "url": "",
+      "id": "kitapci-ornek",
       "sort": 20,
       "enabled": true,
-      "sponsored": false
+      "sponsored": true,
+      "category": "kitapci",
+      "name": "Örnek Kitabevi",
+      "tagline": "Çocuk reyonu geniş.",
+      "city": "Ankara",
+      "district": "Çankaya",
+      "hours": "Hafta içi 10:00–19:00",
+      "website": "https://ornekkitap.com",
+      "image": "https://firtinahg.github.io/sakin-hesap/images/kitap.jpg"
     }
   ]
 }
