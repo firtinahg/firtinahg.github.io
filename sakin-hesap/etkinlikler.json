@@ -66,6 +66,8 @@
       "description": "Sırasöğütler Caddesi’nde çocuk oyun alanı.",
       "city": "Kocaeli",
       "district": "Darıca",
+      "instagram": "https://www.instagram.com/sirinoyunpark/",
+      "age": "0–10",
       "address": "Sırasöğütler Mah. Sırasöğütler Cd. No 75",
       "mapsUrl": "https://www.google.com/maps/search/?api=1&query=%C5%9Eirin%20Oyun%20Park%C4%B1%20Dar%C4%B1ca"
     },
@@ -119,6 +121,7 @@
       "hours": "Kapanış 22:00",
       "phone": "0262 655 21 22",
       "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Dar%C4%B1ca%20Kitabevi%20Ayd%C4%B1nlar%20Caddesi%2018"
+       "image": "https://firtinahg.github.io/sakin-hesap/images/darica_kitabevi.jpeg"
     }
   ]
 }
