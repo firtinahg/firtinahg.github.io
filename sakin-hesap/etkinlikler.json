@@ -1,0 +1,24 @@
+{
+  "items": [
+    {
+      "id": "disari-cik",
+      "title": "Kısa bir dışarı çıkın",
+      "body": "Park, bahçe veya merdiven altı. 20 dakika yeter.",
+      "image": "",
+      "url": "",
+      "sort": 10,
+      "enabled": true,
+      "sponsored": false
+    },
+    {
+      "id": "kitap",
+      "title": "Birlikte kitap bakın",
+      "body": "Kısa bir hikâye. Ekran kapalı kalsın.",
+      "image": "",
+      "url": "",
+      "sort": 20,
+      "enabled": true,
+      "sponsored": false
+    }
+  ]
+}
