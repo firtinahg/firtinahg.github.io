@@ -39,6 +39,23 @@
       "instagram": "https://www.instagram.com/dolunay.egitim/"
     },
     {
+      "id": "gmaps-hkc-cocuk-koleji-anaokulu",
+      "sort": 30,
+      "enabled": true,
+      "sponsored": false,
+      "category": "atolye",
+      "name": "HKC Çocuk Koleji Anaokulu",
+      "tagline": "Anaokulu",
+      "description": "Bayramoğlu’nda orman ve deniz konseptli özel anaokulu.",
+      "city": "Kocaeli",
+      "district": "Darıca",
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=HKC%20Çocuk%20Koleji%20Anaokulu%20Yurtyapan%20Sokak%2022%20Darıca",
+      "address": "Bayramoğlu Mah. Yurtyapan Sk. No:22",
+      "hours": "Pzt–Cmt 08:00–18:00",
+      "phone": "0532 746 90 01",
+      "website": "https://www.hkccocukkoleji.com/"
+    },
+    {
       "id": "gmaps-ko-mek-darica-kurs-merkezi",
       "sort": 40,
       "enabled": true,
@@ -54,6 +71,39 @@
       "hours": "Hafta içi 08:30–21:30 · Hafta sonu 08:30–17:30",
       "phone": "0262 745 71 81",
       "website": "https://www.komek.org/kursmerkezleri/detay/24/darica"
+    },
+    {
+      "id": "gmaps-ozel-darica-gul-bahcesi-anaokulu",
+      "sort": 60,
+      "enabled": true,
+      "sponsored": false,
+      "category": "atolye",
+      "name": "Özel Darıca Gül Bahçesi Anaokulu",
+      "tagline": "Anaokulu",
+      "description": "Bağlarbaşı’nda özel anaokulu.",
+      "city": "Kocaeli",
+      "district": "Darıca",
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Özel%20Darıca%20Gül%20Bahçesi%20Anaokulu%20Nilgün%20Sokak%209",
+      "address": "Bağlarbaşı Mah. Nilgün Sk. No:9",
+      "phone": "0537 884 93 76",
+      "instagram": "https://www.instagram.com/daricagulbahcesianaokulu/"
+    },
+    {
+      "id": "gmaps-ozel-darica-su-anaokulu",
+      "sort": 70,
+      "enabled": true,
+      "sponsored": false,
+      "category": "atolye",
+      "name": "Özel Darıca Su Anaokulu",
+      "tagline": "Anaokulu",
+      "description": "Bağlarbaşı’nda 2–6 yaş özel anaokulu.",
+      "city": "Kocaeli",
+      "district": "Darıca",
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Özel%20Darıca%20Su%20Anaokulu%20Melis%20Sokak%204",
+      "address": "Bağlarbaşı Mah. Melis Sk. No:4",
+      "hours": "Hafta içi 07:00–18:30",
+      "phone": "0532 746 74 08",
+      "website": "http://www.suanaokullari.com/"
     },
     {
       "id": "gmaps-su-kids-workshop",
@@ -243,6 +293,26 @@
       ]
     },
     {
+      "id": "gmaps-asik-mevlut-ihsani-parki",
+      "sort": 270,
+      "enabled": true,
+      "sponsored": false,
+      "category": "oyun_parki",
+      "name": "Aşık Mevlüt İhsani Parkı",
+      "tagline": "Park",
+      "description": "Sırasöğütler Mahallesi’nde mahalle çocuk parkı.",
+      "city": "Kocaeli",
+      "district": "Darıca",
+      "mapsUrl": "https://maps.google.com/?cid=4695583771858884193",
+      "address": "Sırasöğütler, 1671. Sk. No:8",
+      "hours": "Her gün 24 saat açık",
+      "image": "https://firtinahg.github.io/sakin-hesap/images/kocaeli/darica/asik-mevlut-ihsani-parki/cover.jpg",
+      "images": [
+        "https://firtinahg.github.io/sakin-hesap/images/kocaeli/darica/asik-mevlut-ihsani-parki/01.jpg",
+        "https://firtinahg.github.io/sakin-hesap/images/kocaeli/darica/asik-mevlut-ihsani-parki/02.jpg"
+      ]
+    },
+    {
       "id": "gmaps-balyanoz-koyu",
       "sort": 280,
       "enabled": true,
@@ -271,6 +341,20 @@
       "address": "Balyanoz Koyu, Bayramoğlu"
     },
     {
+      "id": "gmaps-bayraktepe-denize-sevgi-parki",
+      "sort": 300,
+      "enabled": true,
+      "sponsored": false,
+      "category": "oyun_parki",
+      "name": "Bayraktepe Denize Sevgi Parkı",
+      "tagline": "Park",
+      "description": "Yalı’da seyir terası ve sahil parkı.",
+      "city": "Kocaeli",
+      "district": "Darıca",
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Bayraktepe%20Denize%20Sevgi%20Parkı%20Eski%20Hükümet%20Cd.%20Darıca",
+      "address": "Eski Hükümet Cd."
+    },
+    {
       "id": "gmaps-cocuk-oyun-koyu",
       "sort": 310,
       "enabled": true,
@@ -288,6 +372,35 @@
         "https://firtinahg.github.io/sakin-hesap/images/kocaeli/darica/cocuk-oyun-koyu/01.jpg",
         "https://firtinahg.github.io/sakin-hesap/images/kocaeli/darica/cocuk-oyun-koyu/02.jpg"
       ]
+    },
+    {
+      "id": "gmaps-cocuk-parki",
+      "sort": 320,
+      "enabled": true,
+      "sponsored": false,
+      "category": "oyun_parki",
+      "name": "Çocuk Parkı (Faruk Yalçın Cd.)",
+      "tagline": "Park",
+      "description": "Faruk Yalçın Cd. civarında mahalle çocuk parkı.",
+      "city": "Kocaeli",
+      "district": "Darıca",
+      "mapsUrl": "https://maps.google.com/?cid=6657675568924999275",
+      "address": "Bayramoğlu, Faruk Yalçın Cd.",
+      "hours": "Her gün 24 saat açık"
+    },
+    {
+      "id": "gmaps-cocuk-parki-ali-ar-can-cd",
+      "sort": 330,
+      "enabled": true,
+      "sponsored": false,
+      "category": "oyun_parki",
+      "name": "Çocuk Parkı (Ali Arıcan Cd.)",
+      "tagline": "Park",
+      "description": "Ali Arıcan Cd. civarında mahalle çocuk parkı.",
+      "city": "Kocaeli",
+      "district": "Darıca",
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Çocuk%20Parkı%20Ali%20Arıcan%20Cd.%20Darıca",
+      "address": "Ali Arıcan Cd."
     },
     {
       "id": "gmaps-darica-belediyesi-sicak-piknik-alani",
@@ -350,6 +463,34 @@
       "district": "Darıca",
       "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Şehit%20Cevher%20Dudayev%20Parkı%20Çifte%20Selviler%20Sokak%20Darıca",
       "address": "Çifte Selviler Sk. No:13"
+    },
+    {
+      "id": "gmaps-sehit-er-gokhan-huseyinoglu-sahil-parki",
+      "sort": 440,
+      "enabled": true,
+      "sponsored": false,
+      "category": "oyun_parki",
+      "name": "Şehit Er Gökhan Hüseyinoğlu Sahil Parkı",
+      "tagline": "Park",
+      "description": "Sahil Caddesi’nde yürüyüş ve aile parkı.",
+      "city": "Kocaeli",
+      "district": "Darıca",
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Şehit%20Er%20Gökhan%20Hüseyinoğlu%20Sahil%20Parkı%20Sahil%20Sk.%20Darıca",
+      "address": "Yalı Mah. Aralık Sk."
+    },
+    {
+      "id": "gmaps-sokullu-mehmet-pasa-parki",
+      "sort": 450,
+      "enabled": true,
+      "sponsored": false,
+      "category": "oyun_parki",
+      "name": "Sokullu Mehmet Paşa Parkı",
+      "tagline": "Park",
+      "description": "Bağlarbaşı’nda mahalle parkı.",
+      "city": "Kocaeli",
+      "district": "Darıca",
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Sokullu%20Mehmet%20Paşa%20Parkı%20Kasımpatı%20Sk.%20No:20%20Darıca",
+      "address": "Kasımpatı Sk. No:20"
     },
     {
       "id": "gmaps-mavi-inci-sosyal-tesisi",

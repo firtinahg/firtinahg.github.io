@@ -15,7 +15,7 @@
       "address": "Özgürlük, 230. Sk. no:2",
       "hours": "Her gün 10:30–22:00",
       "phone": "0531 206 07 05",
-      "instagram": "https://www.instagram.com/afacancocukparki_/",
+      "instagram": "https://instagram.com/afacancocukparki_/",
       "image": "https://firtinahg.github.io/sakin-hesap/images/kocaeli/cayirova/afacan-cocuk-oyun-parki/cover.jpg",
       "images": [
         "https://firtinahg.github.io/sakin-hesap/images/kocaeli/cayirova/afacan-cocuk-oyun-parki/01.jpg",
@@ -42,6 +42,241 @@
       "images": [
         "https://firtinahg.github.io/sakin-hesap/images/kocaeli/cayirova/valena-oyun-merkezi/01.jpg",
         "https://firtinahg.github.io/sakin-hesap/images/kocaeli/cayirova/valena-oyun-merkezi/02.jpg"
+      ]
+    },
+    {
+      "id": "gmaps-playtown",
+      "sort": 600,
+      "enabled": true,
+      "sponsored": false,
+      "category": "oyun_merkezi",
+      "name": "Playtown",
+      "tagline": "Çocuk Oyun Salonu",
+      "description": "Yeni Mahalle’de çocuk oyun salonu.",
+      "city": "Kocaeli",
+      "district": "Çayırova",
+      "mapsUrl": "https://maps.google.com/?cid=5375169608067258727",
+      "address": "Yeni",
+      "image": "https://firtinahg.github.io/sakin-hesap/images/kocaeli/cayirova/playtown/cover.jpg",
+      "images": [
+        "https://firtinahg.github.io/sakin-hesap/images/kocaeli/cayirova/playtown/01.jpg",
+        "https://firtinahg.github.io/sakin-hesap/images/kocaeli/cayirova/playtown/02.jpg"
+      ]
+    },
+    {
+      "id": "gmaps-seker-portakali-oyun-parki-atolye",
+      "sort": 610,
+      "enabled": true,
+      "sponsored": false,
+      "category": "oyun_merkezi",
+      "name": "Şeker Portakalı Oyun Parkı ve Atölye",
+      "tagline": "Oyun parkı ve atölye",
+      "description": "Atatürk Mahallesi’nde çocuk oyun parkı ve atölye.",
+      "city": "Kocaeli",
+      "district": "Çayırova",
+      "mapsUrl": "https://maps.google.com/?cid=14566538405742152740",
+      "address": "Atatürk, 312. Sk. No:11",
+      "hours": "Pzt–Cuma 11:00–21:00 · Cmt 13:00–21:00 · Paz 11:00–21:00",
+      "phone": "0545 764 80 10",
+      "image": "https://firtinahg.github.io/sakin-hesap/images/kocaeli/cayirova/seker-portakali-oyun-parki-ve-atolye/cover.jpg",
+      "images": [
+        "https://firtinahg.github.io/sakin-hesap/images/kocaeli/cayirova/seker-portakali-oyun-parki-ve-atolye/01.jpg",
+        "https://firtinahg.github.io/sakin-hesap/images/kocaeli/cayirova/seker-portakali-oyun-parki-ve-atolye/02.jpg"
+      ]
+    },
+    {
+      "id": "gmaps-toupie-kids-atolye-cafe-oyun-alani",
+      "sort": 620,
+      "enabled": true,
+      "sponsored": false,
+      "category": "kafe",
+      "name": "Toupie Kids Atölye Cafe",
+      "tagline": "Atölye kafe",
+      "description": "Orta Caddesi’nde atölye kafe ve çocuk oyun alanı.",
+      "city": "Kocaeli",
+      "district": "Çayırova",
+      "mapsUrl": "https://maps.google.com/?cid=2583121677511373924",
+      "address": "Çayırova, Orta Cd. no:19",
+      "hours": "Pzt kapalı · Salı–Paz 10:00–18:00",
+      "instagram": "https://www.instagram.com/toupie_kids/",
+      "image": "https://firtinahg.github.io/sakin-hesap/images/kocaeli/cayirova/toupie-kids-atolye-cafe/cover.jpg",
+      "images": [
+        "https://firtinahg.github.io/sakin-hesap/images/kocaeli/cayirova/toupie-kids-atolye-cafe/01.jpg",
+        "https://firtinahg.github.io/sakin-hesap/images/kocaeli/cayirova/toupie-kids-atolye-cafe/02.jpg"
+      ]
+    },
+    {
+      "id": "gmaps-cayirova-belediyesi-cumhuriyet-cocuk-parki",
+      "sort": 630,
+      "enabled": true,
+      "sponsored": false,
+      "category": "oyun_parki",
+      "name": "Cumhuriyet Çocuk Parkı",
+      "tagline": "Park",
+      "description": "Yeni Mahalle’de belediye çocuk parkı.",
+      "city": "Kocaeli",
+      "district": "Çayırova",
+      "mapsUrl": "https://maps.google.com/?cid=12463913473099085890",
+      "address": "Yeni, 5111. Sk. No:14",
+      "phone": "(0262) 743 79 09",
+      "website": "https://www.cayirova.bel.tr/",
+      "image": "https://firtinahg.github.io/sakin-hesap/images/kocaeli/cayirova/cumhuriyet-cocuk-parki/cover.jpg",
+      "images": [
+        "https://firtinahg.github.io/sakin-hesap/images/kocaeli/cayirova/cumhuriyet-cocuk-parki/01.jpg",
+        "https://firtinahg.github.io/sakin-hesap/images/kocaeli/cayirova/cumhuriyet-cocuk-parki/02.jpg"
+      ]
+    },
+    {
+      "id": "gmaps-cayirova-belediyesi-cocuk-kulubu",
+      "sort": 640,
+      "enabled": true,
+      "sponsored": false,
+      "category": "oyun_merkezi",
+      "name": "Çayırova Belediyesi Çocuk Kulübü",
+      "tagline": "Çocuk kulübü",
+      "description": "Atatürk Mahallesi’nde belediye çocuk kulübü.",
+      "city": "Kocaeli",
+      "district": "Çayırova",
+      "mapsUrl": "https://maps.google.com/?cid=14811151289692284182",
+      "address": "Atatürk, 344. Sk.",
+      "hours": "Pzt–Cuma 09:00–17:00 · Cmt–Paz kapalı",
+      "phone": "0530 254 34 35"
+    },
+    {
+      "id": "gmaps-dinlenme-ve-cocuk-parki",
+      "sort": 650,
+      "enabled": true,
+      "sponsored": false,
+      "category": "oyun_parki",
+      "name": "Dinlenme ve Çocuk Parkı",
+      "tagline": "Park",
+      "description": "Atatürk Mahallesi’nde dinlenme ve çocuk parkı.",
+      "city": "Kocaeli",
+      "district": "Çayırova",
+      "mapsUrl": "https://maps.google.com/?cid=14397960245471246191",
+      "address": "Atatürk",
+      "hours": "Her gün 24 saat açık",
+      "image": "https://firtinahg.github.io/sakin-hesap/images/kocaeli/cayirova/dinlenme-ve-cocuk-parki/cover.jpg",
+      "images": [
+        "https://firtinahg.github.io/sakin-hesap/images/kocaeli/cayirova/dinlenme-ve-cocuk-parki/01.jpg",
+        "https://firtinahg.github.io/sakin-hesap/images/kocaeli/cayirova/dinlenme-ve-cocuk-parki/02.jpg"
+      ]
+    },
+    {
+      "id": "gmaps-cayirova-millet-bahcesi",
+      "sort": 660,
+      "enabled": true,
+      "sponsored": false,
+      "category": "oyun_parki",
+      "name": "Çayırova Millet Bahçesi",
+      "tagline": "Park",
+      "description": "Akse’de millet bahçesi ve açık oyun alanı.",
+      "city": "Kocaeli",
+      "district": "Çayırova",
+      "mapsUrl": "https://maps.google.com/?cid=1146063507794271287",
+      "address": "Akse, 458. Sk 12-20",
+      "hours": "Her gün 24 saat açık",
+      "image": "https://firtinahg.github.io/sakin-hesap/images/kocaeli/cayirova/cayirova-millet-bahcesi/cover.jpg",
+      "images": [
+        "https://firtinahg.github.io/sakin-hesap/images/kocaeli/cayirova/cayirova-millet-bahcesi/01.jpg",
+        "https://firtinahg.github.io/sakin-hesap/images/kocaeli/cayirova/cayirova-millet-bahcesi/02.jpg"
+      ]
+    },
+    {
+      "id": "gmaps-cayirova-belediyesi-bulent-ecevit-parki",
+      "sort": 670,
+      "enabled": true,
+      "sponsored": false,
+      "category": "oyun_parki",
+      "name": "Bülent Ecevit Parkı",
+      "tagline": "Park",
+      "description": "Atatürk Mahallesi’nde belediye parkı.",
+      "city": "Kocaeli",
+      "district": "Çayırova",
+      "mapsUrl": "https://maps.google.com/?cid=7597343811632818741",
+      "address": "Atatürk, 337/2. Sk.",
+      "image": "https://firtinahg.github.io/sakin-hesap/images/kocaeli/cayirova/bulent-ecevit-parki/cover.jpg",
+      "images": [
+        "https://firtinahg.github.io/sakin-hesap/images/kocaeli/cayirova/bulent-ecevit-parki/01.jpg",
+        "https://firtinahg.github.io/sakin-hesap/images/kocaeli/cayirova/bulent-ecevit-parki/02.jpg"
+      ]
+    },
+    {
+      "id": "gmaps-cayirova-belediyesi-asik-mahzuni-serif-parki",
+      "sort": 680,
+      "enabled": true,
+      "sponsored": false,
+      "category": "oyun_parki",
+      "name": "Aşık Mahzuni Şerif Parkı",
+      "tagline": "Park",
+      "description": "İnönü Mahallesi’nde belediye parkı.",
+      "city": "Kocaeli",
+      "district": "Çayırova",
+      "mapsUrl": "https://maps.google.com/?cid=8784486401097608547",
+      "address": "İnönü, 105/1. Sk. No:6",
+      "hours": "Her gün 24 saat açık",
+      "image": "https://firtinahg.github.io/sakin-hesap/images/kocaeli/cayirova/asik-mahzuni-serif-parki/cover.jpg",
+      "images": [
+        "https://firtinahg.github.io/sakin-hesap/images/kocaeli/cayirova/asik-mahzuni-serif-parki/01.jpg",
+        "https://firtinahg.github.io/sakin-hesap/images/kocaeli/cayirova/asik-mahzuni-serif-parki/02.jpg"
+      ]
+    },
+    {
+      "id": "gmaps-cocuk-parki",
+      "sort": 690,
+      "enabled": true,
+      "sponsored": false,
+      "category": "oyun_parki",
+      "name": "Çocuk Parkı (Akse)",
+      "tagline": "Park",
+      "description": "Akse’de, Anadolu Otoyolu civarında çocuk parkı.",
+      "city": "Kocaeli",
+      "district": "Çayırova",
+      "mapsUrl": "https://maps.google.com/?cid=7724603272358374550",
+      "address": "Akse, Anadolu Otoyolu",
+      "image": "https://firtinahg.github.io/sakin-hesap/images/kocaeli/cayirova/cocuk-parki-akse/cover.jpg",
+      "images": [
+        "https://firtinahg.github.io/sakin-hesap/images/kocaeli/cayirova/cocuk-parki-akse/01.jpg",
+        "https://firtinahg.github.io/sakin-hesap/images/kocaeli/cayirova/cocuk-parki-akse/02.jpg"
+      ]
+    },
+    {
+      "id": "gmaps-cagdaskent-mesire-alani",
+      "sort": 700,
+      "enabled": true,
+      "sponsored": false,
+      "category": "oyun_parki",
+      "name": "Çağdaşkent Mesire Alanı",
+      "tagline": "Mesire alanı",
+      "description": "Akse’de piknik ve mesire alanı.",
+      "city": "Kocaeli",
+      "district": "Çayırova",
+      "mapsUrl": "https://maps.google.com/?cid=571105607343384586",
+      "address": "Akse, 539. Sk.",
+      "hours": "Her gün 24 saat açık",
+      "image": "https://firtinahg.github.io/sakin-hesap/images/kocaeli/cayirova/cagdaskent-mesire-alani/cover.jpg",
+      "images": [
+        "https://firtinahg.github.io/sakin-hesap/images/kocaeli/cayirova/cagdaskent-mesire-alani/01.jpg",
+        "https://firtinahg.github.io/sakin-hesap/images/kocaeli/cayirova/cagdaskent-mesire-alani/02.jpg"
+      ]
+    },
+    {
+      "id": "gmaps-cayirova-belediyesi-hobi-bahceleri",
+      "sort": 710,
+      "enabled": true,
+      "sponsored": false,
+      "category": "diger",
+      "name": "Çayırova Hobi Bahçeleri",
+      "tagline": "Hobi bahçesi",
+      "description": "Cumhuriyet Mahallesi’nde belediye hobi bahçeleri.",
+      "city": "Kocaeli",
+      "district": "Çayırova",
+      "mapsUrl": "https://maps.google.com/?cid=3822659448433098788",
+      "address": "Cumhuriyet, Atakan Sk. No:18",
+      "image": "https://firtinahg.github.io/sakin-hesap/images/kocaeli/cayirova/cayirova-hobi-bahceleri/cover.jpg",
+      "images": [
+        "https://firtinahg.github.io/sakin-hesap/images/kocaeli/cayirova/cayirova-hobi-bahceleri/01.jpg",
+        "https://firtinahg.github.io/sakin-hesap/images/kocaeli/cayirova/cayirova-hobi-bahceleri/02.jpg"
       ]
     }
   ]
