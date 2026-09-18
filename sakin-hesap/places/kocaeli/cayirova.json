@@ -21,6 +21,28 @@
         "https://firtinahg.github.io/sakin-hesap/images/kocaeli/cayirova/afacan-cocuk-oyun-parki/01.jpg",
         "https://firtinahg.github.io/sakin-hesap/images/kocaeli/cayirova/afacan-cocuk-oyun-parki/02.jpg"
       ]
+    },
+    {
+      "id": "gmaps-valena-oyun-merkezi-ve-organizasyon-oyuncak-oyun-gruplari-at",
+      "sort": 550,
+      "enabled": true,
+      "sponsored": false,
+      "category": "oyun_merkezi",
+      "name": "Valena Oyun Merkezi",
+      "tagline": "Oyun merkezi ve atölye",
+      "description": "Çayırova’da çocuk oyun merkezi, atölye ve oyun grubu.",
+      "city": "Kocaeli",
+      "district": "Çayırova",
+      "mapsUrl": "https://maps.google.com/?cid=7550183988622117579",
+      "address": "Çayırova, Fatih Cd. No:50/A",
+      "hours": "Pzt–Cuma 09:00–22:00 · Cmt–Paz 09:00–22:30",
+      "phone": "0543 236 64 61",
+      "website": "https://www.valena.tr/",
+      "image": "https://firtinahg.github.io/sakin-hesap/images/kocaeli/cayirova/valena-oyun-merkezi/cover.jpg",
+      "images": [
+        "https://firtinahg.github.io/sakin-hesap/images/kocaeli/cayirova/valena-oyun-merkezi/01.jpg",
+        "https://firtinahg.github.io/sakin-hesap/images/kocaeli/cayirova/valena-oyun-merkezi/02.jpg"
+      ]
     }
   ]
 }

@@ -24,13 +24,19 @@
       "category": "oyun_merkezi",
       "name": "Bambino Kids Club Gebze",
       "tagline": "Çocuk Kulübü",
-      "description": "Gebze Tatlıkuyu’da çocuk kulübü ve oyun grubu.",
+      "description": "Osman Yılmaz’da çocuk kulübü ve oyun grubu.",
       "city": "Kocaeli",
       "district": "Gebze",
-      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Bambino%20Kids%20Club%20Ahmet%20Pembegüllü%20Bulvarı%2048%20Gebze",
-      "address": "Tatlıkuyu Mah. Ahmet Pembegüllü Blv. No:48/B",
+      "mapsUrl": "https://maps.google.com/?cid=16295066019998383204",
+      "address": "Osman Yılmaz, 645. Sk. NO:2/1",
       "phone": "0505 097 24 57",
-      "website": "https://bambinokidsclub.com/"
+      "website": "https://bambinokidsclub.com/",
+      "hours": "Pzt–Cuma 09:00–18:30 · Cmt 09:00–15:00 · Paz kapalı",
+      "image": "https://firtinahg.github.io/sakin-hesap/images/kocaeli/gebze/bambino-kids-club-gebze/cover.jpg",
+      "images": [
+        "https://firtinahg.github.io/sakin-hesap/images/kocaeli/gebze/bambino-kids-club-gebze/01.jpg",
+        "https://firtinahg.github.io/sakin-hesap/images/kocaeli/gebze/bambino-kids-club-gebze/02.jpg"
+      ]
     },
     {
       "id": "gmaps-ciko-park",
@@ -44,7 +50,7 @@
       "city": "Kocaeli",
       "district": "Gebze",
       "mapsUrl": "https://maps.google.com/?cid=7089624014341274799",
-      "address": "Osman Yılmaz Mah. 633/2. Sk. No:4/B",
+      "address": "Osman Yılmaz, 633/2. Sk. No:4/B",
       "hours": "Pzt kapalı · Salı–Cuma 11:00–20:00 · Cmt–Paz 10:00–21:00",
       "phone": "0555 024 24 56",
       "image": "https://firtinahg.github.io/sakin-hesap/images/kocaeli/gebze/ciko-park/cover.jpg",
@@ -64,9 +70,14 @@
       "description": "Gebze Center AVM içinde çocuk tema parkı.",
       "city": "Kocaeli",
       "district": "Gebze",
-      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Dal%20Temapark%20Gebze%20Center%20AVM",
-      "address": "Gebze Center AVM 2. kat, Tatlıkuyu Mah. Güney Yanyol Cd. No:310",
-      "hours": "Her gün 10:00–22:00"
+      "mapsUrl": "https://maps.google.com/?cid=17773312402041889850",
+      "address": "Tatlıkuyu, Güney Yanyol Cd.",
+      "hours": "Her gün 10:00–22:00",
+      "image": "https://firtinahg.github.io/sakin-hesap/images/kocaeli/gebze/dal-temapark-gebzecenter/cover.jpg",
+      "images": [
+        "https://firtinahg.github.io/sakin-hesap/images/kocaeli/gebze/dal-temapark-gebzecenter/01.jpg",
+        "https://firtinahg.github.io/sakin-hesap/images/kocaeli/gebze/dal-temapark-gebzecenter/02.jpg"
+      ]
     },
     {
       "id": "gmaps-eskihisar-macera-ve-aksiyon-parki",
@@ -97,7 +108,7 @@
       "address": "Sultan Orhan, 1112/1. Sk. No:1",
       "hours": "Pzt–Cmt 09:00–17:00 · Paz kapalı",
       "phone": "0505 991 27 41",
-      "website": "https://gebzeoyungrubu.com/"
+      "website": "https://www.gebzeoyungrubu.com/"
     },
     {
       "id": "gmaps-tema-park",
@@ -110,8 +121,13 @@
       "description": "Gebze Tatlıkuyu’da 6–12 yaş ağırlıklı açık oyun alanı.",
       "city": "Kocaeli",
       "district": "Gebze",
-      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Tema%20park%20Tatlıkuyu%20Gebze",
-      "address": "Tatlıkuyu Mah. Güney Yanyol Cd. No:310"
+      "mapsUrl": "https://maps.google.com/?cid=5639735865714561899",
+      "address": "Tatlıkuyu",
+      "image": "https://firtinahg.github.io/sakin-hesap/images/kocaeli/gebze/tema-park/cover.jpg",
+      "images": [
+        "https://firtinahg.github.io/sakin-hesap/images/kocaeli/gebze/tema-park/01.jpg",
+        "https://firtinahg.github.io/sakin-hesap/images/kocaeli/gebze/tema-park/02.jpg"
+      ]
     },
     {
       "id": "gmaps-zeka-park-gebze-cocuk-eglence-merkezi",
@@ -132,6 +148,262 @@
       "images": [
         "https://firtinahg.github.io/sakin-hesap/images/kocaeli/gebze/zeka-park-gebze-cocuk-eglence-merkezi/01.jpg",
         "https://firtinahg.github.io/sakin-hesap/images/kocaeli/gebze/zeka-park-gebze-cocuk-eglence-merkezi/02.jpg"
+      ]
+    },
+    {
+      "id": "gmaps-happymoms-gebze",
+      "sort": 470,
+      "enabled": true,
+      "sponsored": false,
+      "category": "kafe",
+      "name": "HappyMoms Gebze",
+      "tagline": "Ebeveyn kafe",
+      "description": "Osman Yılmaz’da ebeveyn kafe ve çocuk oyun alanı.",
+      "city": "Kocaeli",
+      "district": "Gebze",
+      "mapsUrl": "https://maps.google.com/?cid=7618076910510186928",
+      "address": "Osman Yılmaz, İstanbul Cd. No:64",
+      "hours": "Her gün 10:00–22:00",
+      "phone": "0535 842 93 43",
+      "image": "https://firtinahg.github.io/sakin-hesap/images/kocaeli/gebze/happymoms-gebze/cover.jpg",
+      "images": [
+        "https://firtinahg.github.io/sakin-hesap/images/kocaeli/gebze/happymoms-gebze/01.jpg",
+        "https://firtinahg.github.io/sakin-hesap/images/kocaeli/gebze/happymoms-gebze/02.jpg"
+      ]
+    },
+    {
+      "id": "gmaps-kidspresso",
+      "sort": 480,
+      "enabled": true,
+      "sponsored": false,
+      "category": "oyun_merkezi",
+      "name": "Kidspresso",
+      "tagline": "Çocuk Oyun Salonu",
+      "description": "Sultan Orhan’da çocuk oyun ve eğlence merkezi.",
+      "city": "Kocaeli",
+      "district": "Gebze",
+      "mapsUrl": "https://maps.google.com/?cid=7990727097504801238",
+      "address": "Sultan Orhan, 1125. Sk. No:15/a",
+      "hours": "Her gün 10:00–22:00",
+      "phone": "0530 145 12 47",
+      "website": "https://kidspresso.com.tr/",
+      "image": "https://firtinahg.github.io/sakin-hesap/images/kocaeli/gebze/kidspresso/cover.jpg",
+      "images": [
+        "https://firtinahg.github.io/sakin-hesap/images/kocaeli/gebze/kidspresso/01.jpg",
+        "https://firtinahg.github.io/sakin-hesap/images/kocaeli/gebze/kidspresso/02.jpg"
+      ]
+    },
+    {
+      "id": "gmaps-tosbik-cocuk-oyun-evi",
+      "sort": 490,
+      "enabled": true,
+      "sponsored": false,
+      "category": "oyun_merkezi",
+      "name": "Tosbik Çocuk Oyun Evi",
+      "tagline": "Çocuk Oyun Evi",
+      "description": "Osman Yılmaz’da çocuk oyun evi.",
+      "city": "Kocaeli",
+      "district": "Gebze",
+      "mapsUrl": "https://maps.google.com/?cid=4993638052231325212",
+      "address": "Osman Yılmaz, 602. Sk. No:15/A",
+      "hours": "Her gün 12:00–20:00",
+      "phone": "0507 703 54 95",
+      "image": "https://firtinahg.github.io/sakin-hesap/images/kocaeli/gebze/tosbik-cocuk-oyun-evi/cover.jpg",
+      "images": [
+        "https://firtinahg.github.io/sakin-hesap/images/kocaeli/gebze/tosbik-cocuk-oyun-evi/01.jpg",
+        "https://firtinahg.github.io/sakin-hesap/images/kocaeli/gebze/tosbik-cocuk-oyun-evi/02.jpg"
+      ]
+    },
+    {
+      "id": "gmaps-my-kids-park",
+      "sort": 500,
+      "enabled": true,
+      "sponsored": false,
+      "category": "oyun_merkezi",
+      "name": "My Kids Park",
+      "tagline": "Çocuk Oyun Salonu",
+      "description": "Hacıhalil’de kapalı çocuk oyun parkı.",
+      "city": "Kocaeli",
+      "district": "Gebze",
+      "mapsUrl": "https://maps.google.com/?cid=7506950089731855720",
+      "address": "Hacıhalil, 1220/1. Sk. No:4 Kat:2",
+      "hours": "Her gün 10:00–22:00",
+      "phone": "0549 889 36 61",
+      "website": "https://mykidspark.com/",
+      "image": "https://firtinahg.github.io/sakin-hesap/images/kocaeli/gebze/my-kids-park/cover.jpg",
+      "images": [
+        "https://firtinahg.github.io/sakin-hesap/images/kocaeli/gebze/my-kids-park/01.jpg",
+        "https://firtinahg.github.io/sakin-hesap/images/kocaeli/gebze/my-kids-park/02.jpg"
+      ]
+    },
+    {
+      "id": "gmaps-yumurcak-oyun-parki",
+      "sort": 510,
+      "enabled": true,
+      "sponsored": false,
+      "category": "oyun_merkezi",
+      "name": "Yumurcak Oyun Parkı",
+      "tagline": "Çocuk Oyun Salonu",
+      "description": "Mustafapaşa’da kapalı çocuk oyun parkı.",
+      "city": "Kocaeli",
+      "district": "Gebze",
+      "mapsUrl": "https://maps.google.com/?cid=16798331930193289189",
+      "address": "Mustafapaşa, 711. Sk. No:19",
+      "hours": "Her gün 11:00–22:00",
+      "phone": "0507 578 82 41",
+      "image": "https://firtinahg.github.io/sakin-hesap/images/kocaeli/gebze/yumurcak-oyun-parki/cover.jpg",
+      "images": [
+        "https://firtinahg.github.io/sakin-hesap/images/kocaeli/gebze/yumurcak-oyun-parki/01.jpg",
+        "https://firtinahg.github.io/sakin-hesap/images/kocaeli/gebze/yumurcak-oyun-parki/02.jpg"
+      ]
+    },
+    {
+      "id": "gmaps-alpay-lina-garden",
+      "sort": 520,
+      "enabled": true,
+      "sponsored": false,
+      "category": "kafe",
+      "name": "Alpay Lina Garden",
+      "tagline": "Bahçeli oyun kafe",
+      "description": "Tatlıkuyu’da bahçeli çocuk oyun alanı ve kafe.",
+      "city": "Kocaeli",
+      "district": "Gebze",
+      "mapsUrl": "https://maps.google.com/?cid=14800417223140788080",
+      "address": "Tatlıkuyu, 1308. Sk. No:24/A",
+      "hours": "Pzt 11:00–19:00 · Salı kapalı · Çar–Perş 11:00–19:00 · Cuma–Paz 11:00–21:00",
+      "phone": "0546 534 81 02",
+      "instagram": "https://www.instagram.com/alpaylinagarden/",
+      "image": "https://firtinahg.github.io/sakin-hesap/images/kocaeli/gebze/alpay-lina-garden/cover.jpg",
+      "images": [
+        "https://firtinahg.github.io/sakin-hesap/images/kocaeli/gebze/alpay-lina-garden/01.jpg",
+        "https://firtinahg.github.io/sakin-hesap/images/kocaeli/gebze/alpay-lina-garden/02.jpg"
+      ]
+    },
+    {
+      "id": "gmaps-uzay-park",
+      "sort": 530,
+      "enabled": true,
+      "sponsored": false,
+      "category": "oyun_merkezi",
+      "name": "Uzay Park",
+      "tagline": "Çocuk Oyun Salonu",
+      "description": "Osman Yılmaz’da kapalı çocuk oyun parkı.",
+      "city": "Kocaeli",
+      "district": "Gebze",
+      "mapsUrl": "https://maps.google.com/?cid=8418997499541860778",
+      "address": "Osman Yılmaz, Fevzi Çakmak Cd. no:4B",
+      "hours": "Her gün 11:00–21:00",
+      "phone": "0536 971 72 77",
+      "image": "https://firtinahg.github.io/sakin-hesap/images/kocaeli/gebze/uzay-park/cover.jpg",
+      "images": [
+        "https://firtinahg.github.io/sakin-hesap/images/kocaeli/gebze/uzay-park/01.jpg",
+        "https://firtinahg.github.io/sakin-hesap/images/kocaeli/gebze/uzay-park/02.jpg"
+      ]
+    },
+    {
+      "id": "gmaps-joker-cafe-oyun-parki",
+      "sort": 540,
+      "enabled": true,
+      "sponsored": false,
+      "category": "kafe",
+      "name": "Joker Cafe ve Oyun Parkı",
+      "tagline": "Kafe ve oyun parkı",
+      "description": "Arapçeşme’de kafe ve çocuk oyun parkı.",
+      "city": "Kocaeli",
+      "district": "Gebze",
+      "mapsUrl": "https://maps.google.com/?cid=11069820975724531809",
+      "address": "Arapçeşme, 1051/1. Sk. No:15",
+      "hours": "Her gün 11:00–23:00",
+      "phone": "0552 425 04 84",
+      "image": "https://firtinahg.github.io/sakin-hesap/images/kocaeli/gebze/joker-cafe-ve-oyun-parki/cover.jpg",
+      "images": [
+        "https://firtinahg.github.io/sakin-hesap/images/kocaeli/gebze/joker-cafe-ve-oyun-parki/01.jpg",
+        "https://firtinahg.github.io/sakin-hesap/images/kocaeli/gebze/joker-cafe-ve-oyun-parki/02.jpg"
+      ]
+    },
+    {
+      "id": "gmaps-kidzz-academy-gelisimsel-oyun-atolyesi",
+      "sort": 560,
+      "enabled": true,
+      "sponsored": false,
+      "category": "atolye",
+      "name": "Kidzz Academy",
+      "tagline": "Gelişimsel oyun atölyesi",
+      "description": "Osman Yılmaz’da gelişimsel oyun atölyesi.",
+      "city": "Kocaeli",
+      "district": "Gebze",
+      "mapsUrl": "https://maps.google.com/?cid=1174079057600357983",
+      "address": "Osman Yılmaz, 630. Sk. No:2/A",
+      "hours": "Pzt–Cuma 09:00–17:30 · Cmt 09:00–17:00 · Paz kapalı",
+      "phone": "0536 706 72 02",
+      "website": "https://kidzzacademy.com.tr/",
+      "image": "https://firtinahg.github.io/sakin-hesap/images/kocaeli/gebze/kidzz-academy/cover.jpg",
+      "images": [
+        "https://firtinahg.github.io/sakin-hesap/images/kocaeli/gebze/kidzz-academy/01.jpg",
+        "https://firtinahg.github.io/sakin-hesap/images/kocaeli/gebze/kidzz-academy/02.jpg"
+      ]
+    },
+    {
+      "id": "gmaps-mami-park-cafe",
+      "sort": 570,
+      "enabled": true,
+      "sponsored": false,
+      "category": "kafe",
+      "name": "Mami Park Cafe",
+      "tagline": "Ebeveyn kafe",
+      "description": "Hacıhalil’de ebeveyn kafe ve çocuk oyun alanı.",
+      "city": "Kocaeli",
+      "district": "Gebze",
+      "mapsUrl": "https://maps.google.com/?cid=2284378586771916998",
+      "address": "Hacıhalil, Hürriyet Cd. no:43/A",
+      "hours": "Her gün 10:30–22:00",
+      "phone": "0543 917 27 58",
+      "image": "https://firtinahg.github.io/sakin-hesap/images/kocaeli/gebze/mami-park-cafe/cover.jpg",
+      "images": [
+        "https://firtinahg.github.io/sakin-hesap/images/kocaeli/gebze/mami-park-cafe/01.jpg",
+        "https://firtinahg.github.io/sakin-hesap/images/kocaeli/gebze/mami-park-cafe/02.jpg"
+      ]
+    },
+    {
+      "id": "gmaps-guzeller-mahallesi-cocuk-parki",
+      "sort": 580,
+      "enabled": true,
+      "sponsored": false,
+      "category": "oyun_parki",
+      "name": "Güzeller Mahallesi Çocuk Parkı",
+      "tagline": "Park",
+      "description": "Güzeller Mahallesi’nde açık çocuk parkı.",
+      "city": "Kocaeli",
+      "district": "Gebze",
+      "mapsUrl": "https://maps.google.com/?cid=14802626490657422066",
+      "address": "Güzeller, 939. Sk. No:54 D:1",
+      "hours": "Her gün 24 saat açık",
+      "phone": "0551 941 54 11",
+      "image": "https://firtinahg.github.io/sakin-hesap/images/kocaeli/gebze/guzeller-mahallesi-cocuk-parki/cover.jpg",
+      "images": [
+        "https://firtinahg.github.io/sakin-hesap/images/kocaeli/gebze/guzeller-mahallesi-cocuk-parki/01.jpg",
+        "https://firtinahg.github.io/sakin-hesap/images/kocaeli/gebze/guzeller-mahallesi-cocuk-parki/02.jpg"
+      ]
+    },
+    {
+      "id": "gmaps-melek-oyun-park",
+      "sort": 590,
+      "enabled": true,
+      "sponsored": false,
+      "category": "oyun_merkezi",
+      "name": "Melek Oyun Park",
+      "tagline": "Çocuk Oyun Salonu",
+      "description": "Tatlıkuyu’da çocuk oyun parkı.",
+      "city": "Kocaeli",
+      "district": "Gebze",
+      "mapsUrl": "https://maps.google.com/?cid=14086919245077429024",
+      "address": "Tatlıkuyu, 1316/2. Sk. No:6 No:b",
+      "hours": "Her gün 10:00–21:30",
+      "phone": "0537 010 72 41",
+      "image": "https://firtinahg.github.io/sakin-hesap/images/kocaeli/gebze/melek-oyun-park/cover.jpg",
+      "images": [
+        "https://firtinahg.github.io/sakin-hesap/images/kocaeli/gebze/melek-oyun-park/01.jpg",
+        "https://firtinahg.github.io/sakin-hesap/images/kocaeli/gebze/melek-oyun-park/02.jpg"
       ]
     }
   ]
